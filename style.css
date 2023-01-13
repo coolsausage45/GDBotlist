@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-image: url('https://i.redd.it/e1569zmb7t161.png');
+    height: 100vh;
+    overflow: hidden;
+  }
+  #accordion{
+    margin: 100px auto;
+    width: 500px;
+  }
+  #card{
+    margin: 1px auto;
+    width: 200px;
+    background-image: url('https://i.redd.it/e1569zmb7t161.png');
+  }
+  body {
+    color: white
+    }
+    .accordion-button-collapsed,.accordion-body,.accordion-button,.accordion-collapse,.headingTwo,.collapseTwo{
+        background-image: url('https://i.redd.it/e1569zmb7t161.png');
+    }
