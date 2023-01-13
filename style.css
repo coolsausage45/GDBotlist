@@ -6,11 +6,13 @@ body {
   }
   #accordion{
     margin: 100px auto;
-    width: 500px;
+    max-width: 500px;
+    text-align: center;
   }
   #card{
     margin: 1px auto;
     width: 200px;
+    text-align: center;
     background-image: url('https://i.redd.it/e1569zmb7t161.png');
   }
   body {
@@ -20,6 +22,5 @@ body {
         background-image: url('https://i.redd.it/e1569zmb7t161.png');
     }
     .container {
-        margin-left: -600px;
-        margin-top: 10px;
+      text-align: left;
     }
