@@ -4,10 +4,10 @@ body {
     height: 100vh;
     overflow: hidden;
   }
-  #accordion{
-    margin: 100px auto;
-    max-width: 500px;
-    text-align: center;
+    #accordion{
+      margin: 100px auto;
+      max-width: 500px;
+      text-align: center;
   }
   #card{
     margin: 1px auto;
@@ -23,4 +23,7 @@ body {
     }
     .container {
       text-align: left;
+    }
+    svg {
+      margin-right: 10px;
     }
